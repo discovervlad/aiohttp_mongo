@@ -1,0 +1,4 @@
+aiohttp
+asyncio
+aiomongo
+aiohttp_swagger
